@@ -16,7 +16,7 @@
                                 the color of their cards.
             -Class card_stack: represents a stack(pile) of cards.
             -Class hand: represents a hand (player) that takes and gives cards. 
-            -Class game: has the general of functions of a most games. 
+            -Class game: has the general functions of most games. 
             -Class card game: has the general functions of card games.  
 */
 
